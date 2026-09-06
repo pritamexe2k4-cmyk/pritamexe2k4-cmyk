@@ -27,11 +27,11 @@ I don't collect tools for sport. I notice friction → design the spine → ship
 
 ### 🌱 Beyond the Code
 
-When I'm not wiring graphs and adapters, you'll find me:
+I like creative thinking that ships — wording, brand voice, and the ops behind a product, not just slides.
 
-- **Gym + protein math** — athletic hybrid, same lifts, boring consistency
-- **Chess & books** — pattern recognition off the keyboard
-- **Job-hunt systems** — apply with a tracker, not vibes
+- **[ElevX](https://www.elevx.in/):** major hand in branding, messaging, marketing, and website design for the company
+- **Gym:** same lifts, boring consistency — athletic hybrid training
+- **Chess & books:** pattern recognition off the keyboard
 
 ---
 
