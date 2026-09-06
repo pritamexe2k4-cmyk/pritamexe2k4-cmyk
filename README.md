@@ -29,7 +29,7 @@ I don't collect tools for sport. I notice friction → design the spine → ship
 
 I like creative thinking that ships — wording, brand voice, and the ops behind a product, not just slides.
 
-- **[ElevX](https://www.elevx.in/):** major hand in branding, messaging, marketing, and website design for the company
+- **ElevX** ([elevx.in](https://www.elevx.in/)): major hand in branding, messaging, marketing, and website design
 - **Gym:** same lifts, boring consistency — athletic hybrid training
 - **Chess & books:** pattern recognition off the keyboard
 
@@ -40,6 +40,7 @@ I like creative thinking that ships — wording, brand voice, and the ops behind
 Open to **AI Engineer / GenAI / RAG** roles — Hyderabad · Remote India · Bangalore.
 
 - LinkedIn: [preetam-naik2k4](https://linkedin.com/in/preetam-naik2k4)
+- ElevX: [elevx.in](https://www.elevx.in/)
 - Email: [pritam.exe2k4@gmail.com](mailto:pritam.exe2k4@gmail.com)
 - Resume PDF: [Download](https://github.com/pritamexe2k4-cmyk/resume/raw/main/Preetam_Resume.pdf)
 
