@@ -21,7 +21,7 @@ I don't collect tools for sport. I notice friction → design the spine → ship
 
 - **[Brum](https://github.com/pritamexe2k4-cmyk/brum-voice-assistant)** — personal voice knowledge assistant (cascade STT → LangGraph → TTS; docs-first, owned stack)
 - **[IncluHub Dashboard](https://github.com/pritamexe2k4-cmyk/inclu_dashboard)** — role-based education ops that replaced hand-rolled onboarding
-- **[Resume](https://github.com/pritamexe2k4-cmyk/resume)** — always the latest PDF
+- **[Resume](https://github.com/pritamexe2k4-cmyk/pritamexe2k4-cmyk/tree/main/resume)** — locked TeX (PDF restore pending `resume` repo)
 
 ---
 
@@ -42,7 +42,7 @@ Open to **AI Engineer / GenAI / RAG** roles — Hyderabad · Remote India · Ban
 - LinkedIn: [preetam-naik2k4](https://linkedin.com/in/preetam-naik2k4)
 - ElevX: [elevx.in](https://www.elevx.in/)
 - Email: [pritam.exe2k4@gmail.com](mailto:pritam.exe2k4@gmail.com)
-- Resume PDF: [Download](https://github.com/pritamexe2k4-cmyk/resume/raw/main/Preetam_Resume.pdf)
+- Resume TeX: [Source](https://github.com/pritamexe2k4-cmyk/pritamexe2k4-cmyk/blob/main/resume/resume.tex)
 
 ---
 
