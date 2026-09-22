@@ -1,27 +1,24 @@
 # Preetam
 
-Applied AI / backend engineer in **Hyderabad**. I turn messy workflows into systems people can run — APIs, RAG, and product ops.
+**ML / applied AI engineer** in **Hyderabad**. I turn event data and messy workflows into systems people can run — classical ML pipelines, Azure/OpenAI APIs, and product ops UIs.
 
 ## Tech
 
-- **Python / FastAPI** — typed services
-- **LangChain · LangGraph · LangSmith** — graphs you can trace
-- **RAG · Postgres · pgvector** — retrieval with clear boundaries
-- **Next.js / React / TypeScript** — product UIs
-- **Docker · Git** — local compose first
+- **Python · Pandas · NumPy · scikit-learn** — features, clustering, classification
+- **FastAPI · Azure OpenAI** — typed chat / API services
+- **Next.js · React · TypeScript · Supabase** — role-based product UIs
+- **Docker · Git · Vercel** — local-first, then ship
 
 ## Projects
 
 | Project | Link | Note |
 | --- | --- | --- |
-| Brum | [brum-voice-assistant](https://github.com/pritamexe2k4-cmyk/brum-voice-assistant) | Voice + RAG — designing & building / Phase 1 |
-| Digital Behaviour Intelligence | [digital-behaviour-intelligence](https://github.com/pritamexe2k4-cmyk/digital-behaviour-intelligence) | Event → profile → segment → engagement — Phase 1 |
-| Personal Q&A | [Personal-q-and-a-bot-](https://github.com/pritamexe2k4-cmyk/Personal-q-and-a-bot-) | RAG scaffold over personal PDFs |
-| Aira Lift | [Aira_lift](https://github.com/pritamexe2k4-cmyk/Aira_lift) | Local gym tracker — SQLite + API + MCP |
+| Chat_Bot | [Chat_Bot](https://github.com/pritamexe2k4-cmyk/Chat_Bot) | Azure OpenAI + FastAPI chat |
+| Digital Behaviour Intelligence | [digital-behaviour-intelligence](https://github.com/pritamexe2k4-cmyk/digital-behaviour-intelligence) | Event → profile → segment → engagement — designing & building |
+| IncluHub dashboard | [inclu_dashboard](https://github.com/pritamexe2k4-cmyk/inclu_dashboard) | Role-based education ops (real school workflows) |
 | Portfolio | [portfolio](https://github.com/pritamexe2k4-cmyk/portfolio) | Site + resume |
-| IncluHub dashboard | [inclu_dashboard](https://github.com/pritamexe2k4-cmyk/inclu_dashboard) | Role-based education ops |
 
-Also: ElevX branding/site work — [elevx.in](https://www.elevx.in/)
+Also: ElevX branding/site — [elevx.in](https://www.elevx.in/)
 
 ## Contact
 
@@ -29,4 +26,4 @@ Also: ElevX branding/site work — [elevx.in](https://www.elevx.in/)
 - Email: [pritam.exe2k4@gmail.com](mailto:pritam.exe2k4@gmail.com)
 - Resume TeX: [resume/resume.tex](./resume/resume.tex)
 
-Open to AI Engineer / GenAI / RAG roles — Hyderabad · Remote India · Bangalore.
+Open to **ML Engineer** / applied AI roles — Hyderabad · Remote India · Bangalore.
