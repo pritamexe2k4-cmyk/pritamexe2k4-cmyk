@@ -1,29 +1,25 @@
-# Preetam
+# Preetam Naik
 
-**ML / applied AI engineer** in **Hyderabad**. I turn event data and messy workflows into systems people can run — classical ML pipelines, Azure/OpenAI APIs, and product ops UIs.
+AI/ML systems builder in Hyderabad. I work on machine-learning foundations, applied AI workflows, and product software that makes operations clearer and easier to run.
 
-## Tech
+## Focus
 
-- **Python · Pandas · NumPy · scikit-learn** — features, clustering, classification
-- **FastAPI · Azure OpenAI** — typed chat / API services
-- **Next.js · React · TypeScript · Supabase** — role-based product UIs
-- **Docker · Git · Vercel** — local-first, then ship
+- **Machine learning:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras; data preparation, feature engineering, clustering, classification, and evaluation.
+- **Applied systems:** FastAPI, REST APIs, structured outputs, retrieval and agent workflows when they are useful for the task.
+- **Product engineering:** Next.js, React, TypeScript, Supabase/Postgres, Docker, GitHub Actions, and Vercel.
 
-## Projects
+## Selected work
 
-| Project | Link | Note |
+| Project | Link | What it demonstrates |
 | --- | --- | --- |
-| Chat_Bot | [Chat_Bot](https://github.com/pritamexe2k4-cmyk/Chat_Bot) | Azure OpenAI + FastAPI chat |
-| Digital Behaviour Intelligence | [digital-behaviour-intelligence](https://github.com/pritamexe2k4-cmyk/digital-behaviour-intelligence) | Event → profile → segment → engagement — designing & building |
-| IncluHub dashboard | [inclu_dashboard](https://github.com/pritamexe2k4-cmyk/inclu_dashboard) | Role-based education ops (real school workflows) |
-| Portfolio | [portfolio](https://github.com/pritamexe2k4-cmyk/portfolio) | Site + resume |
-
-Also: ElevX branding/site — [elevx.in](https://www.elevx.in/)
+| IncluHub Dashboard | [Repository](https://github.com/pritamexe2k4-cmyk/inclu_dashboard) | Role-based education operations for Admin, Educator, and Student users with Next.js and Supabase RLS. |
+| Portfolio | [Repository](https://github.com/pritamexe2k4-cmyk/portfolio) | Versioned portfolio, content model, and résumé source built with React, TypeScript, and Vite. |
+| NeuroFuse | Research project | Diffusion-based multimodal medical-image fusion research for brain-tumour classification; accepted at IEEE ICCCMLA 2026. |
 
 ## Contact
 
 - LinkedIn: [preetam-naik2k4](https://www.linkedin.com/in/preetam-naik2k4)
 - Email: [pritam.exe2k4@gmail.com](mailto:pritam.exe2k4@gmail.com)
-- Resume TeX: [resume/resume.tex](./resume/resume.tex)
+- Résumé source: [resume/resume.tex](./resume/resume.tex)
 
-Open to **ML Engineer** / applied AI roles — Hyderabad · Remote India · Bangalore.
+Open to junior ML, applied AI, data, and backend opportunities in Hyderabad, Bengaluru, Pune, or remote-friendly India.
