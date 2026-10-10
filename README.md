@@ -12,10 +12,9 @@ AI/ML systems builder in Hyderabad. I work on machine-learning foundations, appl
 
 | Project | Link | What it demonstrates |
 | --- | --- | --- |
+| MAJOR-PROJECT | [Repository](https://github.com/pritamexe2k4-cmyk/MAJOR-PROJECT) | Selected public project repository. |
 | IncluHub Dashboard | [Repository](https://github.com/pritamexe2k4-cmyk/inclu_dashboard) | Role-based education operations for Admin, Educator, and Student users with Next.js and Supabase RLS. |
 | Customer Support Agent | [Repository](https://github.com/pritamexe2k4-cmyk/Project-1) | LangGraph support workflow with Ollama-powered tool calling, semantic policy retrieval, ticket escalation, Docker setup, and LangSmith evaluations. |
-| Portfolio | [Repository](https://github.com/pritamexe2k4-cmyk/portfolio) | Versioned portfolio, content model, and résumé source built with React, TypeScript, and Vite. |
-| NeuroFuse | Research project | Diffusion-based multimodal medical-image fusion research for brain-tumour classification; accepted at IEEE ICCCMLA 2026. |
 
 ## Contact
 
