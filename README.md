@@ -15,7 +15,7 @@ AI/ML systems builder in Hyderabad.
 - [NeuroFuse](https://github.com/pritamexe2k4-cmyk/MAJOR-PROJECT) — medical-image fusion research for tumour classification.
 - [DoctorGemma](https://github.com/pritamexe2k4-cmyk/doctor-gemma-finetuning) — fine-tuning study based on Atharva Taras's DoctorGemma-3, with personal extensions in progress. The reference notebook logs training loss of 5.9254 to 3.0142 over 30 steps; this is not a held-out accuracy result.
 - [IncluHub Dashboard](https://github.com/pritamexe2k4-cmyk/inclu_dashboard) — role-based education operations with Next.js and Supabase.
-- [Harry Potter Chatbot](https://github.com/pritamexe2k4-cmyk/harry_potter_project) — LangChain and LangGraph chatbot with persistent SQLite threads, restart recovery, answer-quality evaluations, and opt-in LangSmith tracing. Source-grounded RAG is in development.
+- [Harry Potter Chatbot](https://github.com/pritamexe2k4-cmyk/harry_potter_project) — local RAG over 4,845 passages from seven novels and *The Cursed Child*, with hybrid retrieval, persistent LangGraph/SQLite chats, validated citations, a 60-case benchmark, 88 offline tests, and optional LangSmith evaluation tracing.
 
 [LinkedIn](https://www.linkedin.com/in/preetam-naik2k4) · [Portfolio](https://pritamexeportfolio.lovable.app) · [Email](mailto:pritam.exe2k4@gmail.com)
 
